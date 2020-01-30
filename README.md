@@ -1,1 +1,1 @@
-# Advanced-Programming-for-Data-Science-Analytics-with-R-and-Python-Group-Project
+This is a group project in 'Advanced Programming for Data Science & Analytics with R and Python' course, and I am the team leader. The project aims at performing both descriptive and predictive analytics on the real public data (New York City Parks Crimes).
